@@ -107,6 +107,7 @@ scene:
   - name: Example Scene
     entities:
       input_number.example_number: 13
+      #if you get an error try: '13'
 ```
 
 ## Automation Examples
